@@ -2,6 +2,9 @@
 
 This project aims to scrape, clean, and analyze data on COVID-19 from the Worldometer website. The data includes information on the number of confirmed cases, deaths, and recoveries of COVID-19 across different countries and regions.
 
+## Google Colab Notebook Link :
+https://colab.research.google.com/drive/1sXtpmFiVsRFESiuufeAENXYnvjUP_JnY?usp=sharing
+
 ## Website Scraping
 
 The data was scraped from the [Worldometer website](https://www.worldometers.info/coronavirus/). We used Python and the Beautiful Soup library to scrape the data. We extracted the following data for each country:
@@ -52,7 +55,5 @@ The COVID-19 dataset provided valuable insights into the spread and impact of CO
 ## Note:
 The data in the saved file (.csv) and analysis is updated every time the script is run, as it scrapes and retrieves the latest real-time data from the Worldometer website.
 
-## Google Colab Notebook Link :
-https://colab.research.google.com/drive/1sXtpmFiVsRFESiuufeAENXYnvjUP_JnY?usp=sharing
 
 You Can Run it! 
